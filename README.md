@@ -1,10 +1,10 @@
 # pyschose-experience
 
-### De folders zijn de verschillende branches (full releases is de main branche)
+### De folders binnen de Unity-Project.zip zijn de verschillende branches met de namen wie deze branch heeft onderhouden.
 
 ### Zie het bestand versiebeheer.xlsx om te zien wie wat gedaan heeft.
 
-### Gebruikte/geinstalleerde unity packages + versie
+### Gebruikte/geinstalleerde unity packages + versie.
 
 * Apartment kit - V4.1
 * Ashtrays - V1.0
