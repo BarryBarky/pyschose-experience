@@ -1,6 +1,6 @@
 # pyschose-experience
 
-### De folders binnen de Unity-Project.zip zijn de verschillende branches met de namen wie deze branch heeft onderhouden.
+### De folders binnen de Unity-Project.zip zijn de verschillende branches met de namen wie deze branch heeft onderhouden. In het excel bestand hieronder zijn per bestand te vinden wie deze gemaakt heeft.
 
 ### Zie het bestand versiebeheer.xlsx om te zien wie wat gedaan heeft.
 
